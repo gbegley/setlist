@@ -1,0 +1,9 @@
+#drop_zone {
+    text-align: center;
+    background-color: #ffffde;
+    /*margin: 10px; padding: 10px;*/
+    border: 2px dashed #ccc;
+}
+
+div.title {font-size: 130%;font-weight: 300;}
+div.app-title { padding: 8px 5px;}
